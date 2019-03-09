@@ -1,2 +1,2 @@
 # demogit
-Une demi de git
+Une demo de git
