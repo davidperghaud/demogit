@@ -2,3 +2,5 @@ demo_git
 ========
 
 une demo de git qui se passe bien
+
+Et mqintenant on modifie depuis GitHub
